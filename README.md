@@ -282,23 +282,25 @@ Translated Text
 ```text
 PolyLingo-AI/
 │
-├── audio.ipynb
-├── audio_language_detector.ipynb
-├── audio_transcriber_en.ipynb
-├── audio_transcriber_other.ipynb
-├── translator.ipynb
-├── text_language_detector.ipynb
-├── text_to_speech.ipynb
-├── live_voice_translation.ipynb
-├── pdf_text_extractor.ipynb
-├── image_text_extractor.ipynb
-├── txt_file_text_extractor.ipynb
-├── extract_text.ipynb
-├── Text.ipynb
-├── Text_from_Files.ipynb
+├── src/
+│   ├── audio.ipynb
+│   ├── audio_language_detector.ipynb
+│   ├── audio_transcriber_en.ipynb
+│   ├── audio_transcriber_other.ipynb
+│   ├── translator.ipynb
+│   ├── text_language_detector.ipynb
+│   ├── text_to_speech.ipynb
+│   ├── live_voice_translation.ipynb
+│   ├── pdf_text_extractor.ipynb
+│   ├── image_text_extractor.ipynb
+│   ├── txt_file_text_extractor.ipynb
+│   ├── extract_text.ipynb
+│   ├── Text.ipynb
+│   └── Text_from_Files.ipynb
 │
 ├── requirements.txt
 ├── LICENSE
+├── .gitignore
 └── README.md
 ```
 
