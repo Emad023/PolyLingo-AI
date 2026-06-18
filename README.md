@@ -308,31 +308,31 @@ PolyLingo-AI/
 
 # Core Capabilities
 
-✅ Automatic Language Detection
+Automatic Language Detection
 
-✅ Audio Language Detection
+Audio Language Detection
 
-✅ Speech-to-Text Transcription
+Speech-to-Text Transcription
 
-✅ Voice Translation
+Voice Translation
 
-✅ Live Voice Translation
+Live Voice Translation
 
-✅ Text Translation
+Text Translation
 
-✅ Text-to-Speech
+Text-to-Speech
 
-✅ PDF Text Extraction
+PDF Text Extraction
 
-✅ PDF Translation
+PDF Translation
 
-✅ OCR-Based Image Processing
+OCR-Based Image Processing
 
-✅ Image Translation
+Image Translation
 
-✅ Document Translation
+Document Translation
 
-✅ Multilingual Processing
+Multilingual Processing
 
 ---
 
